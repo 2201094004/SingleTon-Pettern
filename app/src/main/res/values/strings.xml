@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLite Singleton</string>
+
+    <!-- Array for study programs -->
+    <string-array name="program_studi">
+        <item>Manajemen Informatika</item>
+        <item>Teknik Listrik</item>
+    </string-array>
+</resources>
